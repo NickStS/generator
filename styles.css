@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.drop-area {
+    border: 2px dashed #007bff;
+    border-radius: 7px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.drop-area:hover {
+    background-color: #f0f8ff;
+}
+
+#fileInput {
+    display: none;
+}
+
+#scheduleContainer {
+    margin-top: 20px;
+}
+
+.schedule-day {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.schedule-day h2 {
+    margin: 0;
+    padding: 10px;
+    background: #1d8aff;
+    color: white;
+    border-radius: 5px 5px 0 0;
+    text-align: center;
+}
+
+.lesson {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.lesson:last-child {
+    border-bottom: none;
+}
+
+.lesson-time {
+    flex: 1;
+    text-align: center;
+    border-right: 1px solid #ddd;
+    padding: 10px;
+    background: #f9f9f9;
+}
+
+.lesson-details {
+    flex: 3;
+    padding: 10px;
+}
+
+.lesson-details p {
+    margin: 5px 0;
+}
+
+.lesson-details p:first-child {
+    font-weight: bold;
+}
+
+.blue-background {
+    background-color: #cce5ff;
+}
+
+.green-background {
+    background-color: #d4edda;
+}

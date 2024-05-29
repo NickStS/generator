@@ -1,0 +1,90 @@
+{
+    "schedule": [
+      {
+        "date": "2024-02-06",
+        "lessonList": [
+          {
+            "subject": "Mathematics",
+            "time": "9:00 - 10:30",
+            "teacher": "Ivanova I.I.",
+            "classroom": "101"
+          },
+          {
+            "subject": "Ukrainian Language",
+            "time": "10:45 - 12:15",
+            "teacher": "Petrova P.P.",
+            "classroom": "102"
+          }
+        ]
+      },
+      {
+        "date": "2024-02-07",
+        "lessonList": [
+          {
+            "subject": "History",
+            "time": "8:30 - 10:00",
+            "teacher": "Sydorenko S.S.",
+            "classroom": "103"
+          },
+          {
+            "subject": "Physics",
+            "time": "10:15 - 11:45",
+            "teacher": "Kovalenko K.K.",
+            "classroom": "104"
+          }
+        ]
+      },
+      {
+        "date": "2024-02-08",
+        "lessonList": [
+          {
+            "subject": "Chemistry",
+            "time": "9:30 - 11:00",
+            "teacher": "Morozova M.M.",
+            "classroom": "105"
+          },
+          {
+            "subject": "English Language",
+            "time": "11:15 - 12:45",
+            "teacher": "Johnson D.D.",
+            "classroom": "106"
+          }
+        ]
+      },
+      {
+        "date": "2024-02-09",
+        "lessonList": [
+          {
+            "subject": "Physical Education",
+            "time": "8:00 - 9:00",
+            "teacher": "Sportov S.S.",
+            "classroom": "Gym"
+          },
+          {
+            "subject": "Biology",
+            "time": "9:15 - 10:45",
+            "teacher": "Biologova B.B.",
+            "classroom": "107"
+          }
+        ]
+      },
+      {
+        "date": "2024-02-10",
+        "lessonList": [
+          {
+            "subject": "Geography",
+            "time": "10:00 - 11:30",
+            "teacher": "Geografov G.G.",
+            "classroom": "108"
+          },
+          {
+            "subject": "Computer Science",
+            "time": "11:45 - 13:15",
+            "teacher": "ITeacher I.I.",
+            "classroom": "109"
+          }
+        ]
+      }
+    ]
+  }
+  
